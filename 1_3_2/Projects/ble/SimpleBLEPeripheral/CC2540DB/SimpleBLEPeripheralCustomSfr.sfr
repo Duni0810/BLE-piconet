@@ -1,0 +1,7 @@
+[Sfr]
+sfr = "U1BAUD.BAUD_M",	"SFR",	0xfa,	1,	base=16,	modified
+sfr = "MPAGE",	"SFR",	0x93,	1,	base=16,	modified
+
+
+[SfrGroupInfo]
+group = "Custom", "U1BAUD.BAUD_M"
